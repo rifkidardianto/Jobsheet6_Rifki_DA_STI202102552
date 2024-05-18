@@ -12,5 +12,3 @@ Tugas  : Jobsheet 06
 ![image](https://github.com/rifkidardianto/Jobsheet6_Rifki_DA_STI202102552/blob/main/screenshot/Capture1.JPG)
 ![image](https://github.com/rifkidardianto/Jobsheet6_Rifki_DA_STI202102552/blob/main/screenshot/Capture2.JPG)
 ![image](https://github.com/rifkidardianto/Jobsheet6_Rifki_DA_STI202102552/blob/main/screenshot/untitled.gif)
-
-
